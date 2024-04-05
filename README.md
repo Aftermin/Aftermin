@@ -3,6 +3,10 @@ My name is Amin
 
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
+## SKILL 🧑🏻‍💻
+- Can write JavaScript
+- Can write C++
+
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -22,10 +26,6 @@ My name is Amin
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
-## SKILL 🧑🏻‍💻
-- Can write JavaScript
-- Can write C++
 
 ## GitHub STATS 📊
 ![hrnph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aftermin&show_icons=true&theme=radical)
