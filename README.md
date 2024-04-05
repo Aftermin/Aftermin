@@ -4,7 +4,7 @@ My name is Amin
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,6 +39,8 @@ My name is Amin
 <p align="center">
   <img width="250" src="https://media1.tenor.com/m/yEpqopQqPoAAAAAd/yunhyeong-ikon-songchelin-song-yunhyeong-handsome-visual-cute-chef-cooking.gif">
 </p>
+
+
 
 <!--
 **Aftermin/Aftermin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
