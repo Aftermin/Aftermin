@@ -24,7 +24,7 @@ My name is Amin
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ## SKILL 🧑🏻‍💻
-- Can write typescript
+- Can write JavaScript
 - Can write C++
 
 ## GitHub STATS 📊
