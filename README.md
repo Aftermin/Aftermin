@@ -1,5 +1,5 @@
 ## ABOUT ME 🤯
-My name is Amin
+My name is Amén
 
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
