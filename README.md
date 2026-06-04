@@ -25,12 +25,6 @@ My name is Amén
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## GitHub STATS 📊
-![hrnph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aftermin&show_icons=true&theme=radical)
-
-## Languages and Tools 🛠️ 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftermin&layout=compact&theme=radical)
-
 ## Profile Views 👀 
 ![Profile views](https://komarev.com/ghpvc/?username=Aftermin&color=blueviolet)
 
